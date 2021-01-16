@@ -1,5 +1,6 @@
 ### Hi there 👋
 Discord: NotCreative#0001
+
 I develop shitty bots and useless scripts in my freetime.
 <!--
 **NotCreative21/NotCreative21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,4 @@ I develop shitty bots and useless scripts in my freetime.
 -->
 ![NotCreative's github stats](https://github-readme-stats.vercel.app/api?username=NotCreative21&count_private=true&theme=prussian)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotCreative21&count_private=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NotCreative21&count_private=true&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
